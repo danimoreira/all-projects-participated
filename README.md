@@ -1,6 +1,7 @@
 # all-projects-participated
 All Projects Participated
 
+<a href="https://github.com/danimoreira"> back to home </a>
 
 ## Fácil Informática
 :calendar: 06/2020 - 05/2022 \
@@ -61,5 +62,5 @@ All Projects Participated
 ## Toshiba do Brasil S.A.
 :calendar:  08/2005 - 03/2006 \
 **Projeto:** Desenvolvimento de aplicação para Gestão e Elaboração de Projetos Mecânicos e Elétricos. \
-**Principais Atividades:** Desenvolvimento de software para gestão de documentos (GED), workflow de aprovação de projetos, criação de desenhos mecânicos e elétricos (integração com AUTOCAD)
+**Principais Atividades:** Desenvolvimento de software para gestão de documentos (GED), workflow de aprovação de projetos, criação de desenhos mecânicos e elétricos (integração com AUTOCAD) \
 **Tecnologias Utilizadas:** VB6. Autocad 14, PostgreeSQL
